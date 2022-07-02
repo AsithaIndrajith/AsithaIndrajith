@@ -47,5 +47,5 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![asithaindrajith's github stats](https://github-readme-stats.vercel.app/api?username=AsithaIndrajith&show_icons=true&theme=dracula)
+![asithaindrajith's github stats](https://github-readme-stats.vercel.app/api?username=AsithaIndrajith&show_icons=true&theme=dracula&include_all_commits=true)
 
