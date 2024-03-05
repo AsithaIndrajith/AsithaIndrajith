@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-@asithaindrajith-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/asitha917)
 [![](https://img.shields.io/badge/-@asithaindrajith-%23181717?style=flat-square&logo=github)](https://github.com/AsithaIndrajith)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=asithaindrajith.com&url=https%3A%2F%2Fxlbd.me)](https://asithaindrajith.com)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=asithaindrajith.com&url=https%3A%2F%2Fxlbd.me)](https://asithaindrajith.live)
 
 :robot: 𝑰 ❤️ Artificial Intelligence! :robot:
 
