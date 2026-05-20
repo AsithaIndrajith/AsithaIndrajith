@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Production build
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Tool caches
+.eslintcache
+coverage/
+
+# Legacy local assets not used by the current site
+README 2.md
+Black and White Minimalist Initials Logo Template/
+public/images/projects/

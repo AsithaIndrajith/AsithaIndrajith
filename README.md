@@ -1,37 +1,44 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Asitha Indrajith
+# Hi, I'm Asitha Kottahachchi
 
-[![](https://img.shields.io/badge/-@asithaindrajith-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/asitha917)
-[![](https://img.shields.io/badge/-@asithaindrajith-%23181717?style=flat-square&logo=github)](https://github.com/AsithaIndrajith)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=asithaindrajith.com&url=https%3A%2F%2Fxlbd.me)](https://asithaindrajith.live)
+I'm a software engineer and technical builder who enjoys working across machine learning, full-stack web development, automation, and practical AI tooling. I like turning ideas into usable systems, learning deeply, and sharing useful engineering notes along the way.
 
-:robot: 𝑰 ❤️ Artificial Intelligence! :robot:
+[![Portfolio](https://img.shields.io/badge/Portfolio-asithaindrajith.com-0ab9e6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asithaindrajith.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AsithaIndrajith-181717?style=for-the-badge&logo=github)](https://github.com/AsithaIndrajith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asitha%20Indrajith-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asithaindrajith/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asithaindrajithk9@gmail.com)
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
+## What I Like Building
 
-🖖 React.𝗷𝘀 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 | 🔐 𝗪𝗲𝗯𝟯 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿
+- Machine learning experiments and applied AI systems
+- React and JavaScript web applications
+- Java/Spring Boot backend services
+- Automation tools that remove boring manual work
+- Developer-focused utilities, dashboards, and research prototypes
 
-:writing_hand: 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 [Algorithm Tutorial](https://gist.github.com/AsithaIndrajith/cd2037db5ddf30e324e29b26cc009876) 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.  
+## Tech Stack
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- `Shiksha Exam` - Public exam module with complete functionalities.
-- `Shiksha Public` - 🗡️ Public LMS platform.
-- `Catch Mafia` - 🔌 A web-based multiplayer game inspired by a mafia card game. 
-- `AI Dating` - Dating mobile application using AI algorithm.
+## Current Focus
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+- Building cleaner personal web and profile systems
+- Exploring machine learning, quantum-inspired ML, and security ideas
+- Improving developer workflows with small, useful tools
+- Writing and organizing technical notes for future reuse
 
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+## GitHub Activity
 
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsithaIndrajith&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-## 𝗦𝘁𝗮𝘁𝘀
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsithaIndrajith&layout=compact&theme=tokyonight)
 
-![asithaindrajith's github stats](https://github-readme-stats.vercel.app/api?username=AsithaIndrajith&show_icons=true&theme=dracula&include_all_commits=true)
+## A Small Note
 
+I enjoy learning in public, experimenting with ideas, and building things that are just useful enough to keep around. If something here helps you, that makes the work even better.
